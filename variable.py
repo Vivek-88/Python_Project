@@ -18,5 +18,5 @@ print(c)
 d="Harry"
 print(d)
 
-e=None
+e=None # like null as in java
 print(e)
