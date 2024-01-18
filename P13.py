@@ -1,0 +1,1 @@
+# Write a Pandas program to create a subset of a given series based on value and condition.
